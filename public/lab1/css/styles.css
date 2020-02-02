@@ -1,0 +1,86 @@
+h1 {
+    font-family:'Pacifico', cursive;
+    font-size:4em;
+    margin-bottom:0;
+}
+
+body {
+    background-color:black;
+    color:white;
+}
+
+header, main, nav, footer, #content{
+    text-align:center;
+}
+
+nav a {
+    padding:15px;
+    padding-bottom:4px;
+    font-size:1.8em;
+    text-decoration:none;
+    color:white;
+}
+
+nav a:hover {
+    border-bottom:2px orange solid;
+    font-size:2em;
+    transition:0.5s;
+}
+
+nav #active {
+    border-bottom:2px orange solid;
+    font-size:2em;
+}
+
+#me, #welcomeText {
+    float:left;
+}
+
+#me {
+    margin-top:0;
+}
+
+#welcomeText {
+    text-align: left;
+}
+
+footer {
+    clear:left;
+    font-size: 15px;
+    color: rgb(68, 66, 88);
+}
+
+#csumbLogo {
+    height:100px;
+}
+
+table {
+    margin: 0 auto;
+}
+
+td {
+    padding-right:10px;
+    font-size:1.3em;
+}
+
+td strong {
+    color:orange;
+}
+
+#table-header {
+    background-color:#351a00;
+}
+
+.table-row {
+    background-color:#753900;
+}
+
+ul {
+    width:500px;
+    text-align:left;
+    margin: 0 auto;
+}
+
+.hobby {
+    color:yellow;
+}
