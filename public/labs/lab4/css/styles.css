@@ -1,0 +1,14 @@
+form {
+    width: 50%;
+    margin: 0 auto 20px auto;
+    border: 2px grey solid;
+    padding: 5%;
+}
+
+body {
+    font-size:1.5em;
+}
+
+h1 {
+    text-align:center;
+}
