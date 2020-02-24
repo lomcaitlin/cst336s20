@@ -1,0 +1,15 @@
+/* body {
+    font-family: 'Montserrat' !important;
+} */
+
+header, .description {
+    text-align:center;
+}
+
+img {
+    height:250px;
+    border: solid #eee 3px;
+    padding:10px;
+    margin: auto;
+    display:block;
+}
