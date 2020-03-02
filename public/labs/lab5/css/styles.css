@@ -1,0 +1,34 @@
+body {
+    text-align:center;
+    padding:0;
+    margin:0;
+}
+
+header {
+    display:block;
+    background-color:#eee;
+    padding:20px;
+    margin:0;
+    margin-bottom:1em;
+}
+
+.picBox {
+    display:inline-block;
+    width:200px;
+    margin:5px;
+}
+
+.pic, .likes {
+    display:block;
+}
+
+.pic {
+    border: 1px solid black;
+    border-radius:20px;
+    width:200px;
+}
+
+#pics {
+    padding: 0 200px;
+    margin:0 auto;
+}
